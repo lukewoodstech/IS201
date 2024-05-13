@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: brown;
+    background-color: rgb(130, 197, 255);
+}
+a {
+    font-style: italic;
+    text-decoration: none;
+}
+a:hover {
+    font-weight: bold;
+    font-size: larger;
+    text-decoration: underline;
+}
+a:visited {
+    color: blue;
+}
+
+li {
+    font-weight: normal;
+    font-size: 14px;
+    font-style: italic;
+}
+.ResumeHeading {
+    font-weight: bold;
+    font-style: normal;
+}
+.TextAlign {
+    text-align: center;
+}
+.homebg {
+    background-image: url(../Images/Lukedrinkingmate.JPG);
+    background-position: center;
+    background-size: cover;
+}
+/* This atribute is for bolding text */
+.bold {
+    font-weight: bold;
+}
